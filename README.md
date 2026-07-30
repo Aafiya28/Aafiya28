@@ -46,13 +46,8 @@
 
 <br />
 
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aafiya28&theme=orange" alt="streak stats" />
-</p> -->
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aafiya28&theme=orange" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aafiya28&theme=orange" alt="streak stats" />
 </p>
 
 <!-- <br />
