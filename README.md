@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Aafiya Afroz</h1>
+<h1 align="center">Hi 👋, I'm Aafiya Afroz</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 - 🔭 I’m currently working on **[AdminCart](https://github.com/Aafiya28/AdminCart)**
@@ -59,7 +59,7 @@
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aafiya28&theme=orange" alt="streak stats" />
-</p> --> -->
+</p> --> 
 
 
 
