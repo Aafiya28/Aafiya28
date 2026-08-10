@@ -45,7 +45,7 @@
 <p align="center">
   <img src="https://github-readme-stats-anurag.vercel.app/api/top-langs?username=aafiya28&show_icons=true&locale=en&layout=compact" alt="top languages" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-anurag.vercel.app/api?username=aafiya28&show_icons=true&locale=en" alt="github stats" height="165" />
+  <img src="https://github-readme-starts-anurag.vercel.app/api?username=aafiya28&show_icons=true&locale=en" alt="github stats" height="165" />
 </p>
 
 
