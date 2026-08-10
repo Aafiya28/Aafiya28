@@ -15,8 +15,6 @@
   </a>
 </p>
 
-<br />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40" hspace="8" vspace="5"/></a>
