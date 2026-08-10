@@ -57,11 +57,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aafiya28&show_icons=true&locale=en" alt="github stats" />
 </p>
 
-<!--
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aafiya28&theme=orange" alt="streak stats" />
-</p> 
-/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aafiya28&show_icons=true&locale=en&layout=compact" alt="top languages" height="165" />
   &nbsp;&nbsp;
