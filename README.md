@@ -36,11 +36,11 @@
 
 <br />
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aafiya28&show_icons=true&locale=en&layout=compact" alt="top languages" height="165" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aafiya28&show_icons=true&locale=en" alt="github stats" height="165" />
-</p> -->
+</p> 
 
 <p align="center">
   <img src="https://github-readme-stats-anurag.vercel.app/api/top-langs?username=aafiya28&show_icons=true&locale=en&layout=compact" alt="top languages" height="165" />
