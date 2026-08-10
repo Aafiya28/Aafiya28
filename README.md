@@ -49,7 +49,7 @@
 
 <img src="https://github-readme-stats-anurag.vercel.app/api?username=aafiya28&show_icons=true&hide_rank=true&locale=en" alt="github stats" height="165" />
 
-  <img src="https://github-readme-stats-anurag.vercel.app/api?username=aafiya28&show_icons=true&hide_rank=true&locale=en" alt="github stats" height="165" />
+  <img src="https://github-readme-stats-anurag.vercel.app/api?username=aafiya28&show_icons=true&hide_rank=false&locale=en" alt="github stats" height="165" />
 </p>
 
 
