@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aafiya Afroz</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **[AdminCart](https://github.com/Aafiya28/AdminCart)**
+- 🚀 Actively applying for Software Developer roles | Enhancing DSA & Full-Stack Web Development skills
 - 🌱 I’m currently learning **Java & Data Structures & Algorithm**
 - 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 - 💬 Ask me about **JavaScript, TypeScript, React, Angular, HTML/CSS, and Java**
